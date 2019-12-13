@@ -28,7 +28,7 @@
 
 * project uses has tests for all the infrastructure  
 
-* project uses a CI/CD process like Jenkins  
+* project uses a CI/CD process using something like Jenkins  
 
 * project uses concurrency when appreciate  
   
