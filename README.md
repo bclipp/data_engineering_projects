@@ -38,9 +38,10 @@
   
 Languages (python, Java, Golang, Scala )   
   
-1. Merge pipeline DB and API(from an old Job interview)   
-2. Data Modeling in PostGres  (From Udacity Nano)  
-3. Data Modeling in Casandra  (From Udacity Nano)  
-4. Data Warehouse (From Udacity Nano)  
-5. Spark DataLake
-6. Kafka Project
+1. Merge pipeline DB and API
+2. Streaming CDC to S3   
+3. Data Modeling in PostgreSQL  
+4. Data Modeling in Casandra  
+5. Data Warehouse   
+6. Spark DataLake
+7. Kafka Project
