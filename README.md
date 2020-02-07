@@ -4,7 +4,7 @@
 
 **Blue** :
 
-* All python follows best practices: ie Pep8, Docstrings ect..   
+* All code follows best practices and was run through a linter   
 
 * Classes and Functions are used when appropriate  
 
