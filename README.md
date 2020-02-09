@@ -53,3 +53,5 @@
 10. Kafka Project
 11. Data Modeling in MongoDB
 12. Data Modeling in Elasticsearch
+13. Redis
+14. In Memory DB
