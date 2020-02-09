@@ -47,7 +47,7 @@
 4. [Data Modeling in Cassandra](https://github.com/bclipp/data_engineering_projects/tree/master/project04)  
 5. [Data Warehouse(Redshift or Snowflake)](https://github.com/bclipp/data_engineering_projects/tree/master/project05)   
 6. [Spark DataLake](https://github.com/bclipp/data_engineering_projects/tree/master/project06)
-7. [Automate DataPipeline](https://github.com/bclipp/data_engineering_projects/tree/master/project07)
+7. [Automate DataPipeline (airflow or Jenkins)](https://github.com/bclipp/data_engineering_projects/tree/master/project07)
 8. REST API crud app
 9. Grps crud  app
 10. Kafka Project
