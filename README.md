@@ -42,4 +42,6 @@
 4. Data Modeling in Casandra  
 5. Data Warehouse   
 6. Spark DataLake
-7. Kafka Project
+7. REST API crud app
+8. Grps crud  app
+9. Kafka Project
