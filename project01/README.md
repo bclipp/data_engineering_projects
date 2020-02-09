@@ -15,8 +15,13 @@ Which will contain the following customer data tables:
 
 2. The External API: 
 
-swagger doc: https://geo.fcc.gov/api/census/#!/block/get_block_find
-example api call: https://geo.fcc.gov/api/census/area?lat=37.299590&lon=-76.742290&format=json
+swagger doc: 
+
+https://geo.fcc.gov/api/census/#!/block/get_block_find
+
+example api call:  
+
+https://geo.fcc.gov/api/census/area?lat=37.299590&lon=-76.742290&format=json
 
 
 Outcome:
