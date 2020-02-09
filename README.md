@@ -50,7 +50,7 @@
 7. [Automate DataPipeline (airflow or Jenkins)](https://github.com/bclipp/data_engineering_projects/tree/master/project07)
 8. REST API crud app
 9. Grps crud  app
-10. Kafka Project
+10. Kafka Project (Spark Streaming and * language)
 11. Data Modeling in MongoDB
 12. Data Modeling in Elasticsearch
 13. Redis
