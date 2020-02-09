@@ -42,7 +42,7 @@
 ## Projects     
   
 1. [Merge pipeline DB and API](https://github.com/bclipp/data_engineering_projects/tree/master/project01)
-2. Streaming PostGresql CDC to S3   
+2. [Streaming PostGresql CDC to S3](https://github.com/bclipp/data_engineering_projects/tree/master/project02)   
 3. Data Modeling in PostgreSQL  
 4. Data Modeling in Casandra  
 5. Data Warehouse   
