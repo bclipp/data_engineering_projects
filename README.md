@@ -42,11 +42,14 @@
 ## Projects     
   
 1. [Merge pipeline DB and API](https://github.com/bclipp/data_engineering_projects/tree/master/project01)
-2. Streaming PostGresql CDC to S3   
-3. Data Modeling in PostgreSQL  
-4. Data Modeling in Casandra  
-5. Data Warehouse   
-6. Spark DataLake
-7. REST API crud app
-8. Grps crud  app
-9. Kafka Project
+2. [Streaming PostGresql CDC to S3](https://github.com/bclipp/data_engineering_projects/tree/master/project02)   
+3. [Data Modeling in PostgreSQL](https://github.com/bclipp/data_engineering_projects/tree/master/project03)  
+4. [Data Modeling in Cassandra](https://github.com/bclipp/data_engineering_projects/tree/master/project04)  
+5. [Data Warehouse(Redshift or Snowflake)](https://github.com/bclipp/data_engineering_projects/tree/master/project05)   
+6. [Spark DataLake](https://github.com/bclipp/data_engineering_projects/tree/master/project06)
+7. [Automate DataPipeline (airflow or Jenkins)](https://github.com/bclipp/data_engineering_projects/tree/master/project07)
+8. REST API crud app
+9. Grps crud  app
+10. Kafka Project
+11. Data Modeling in MongoDB
+12. Data Modeling in Elasticsearch
