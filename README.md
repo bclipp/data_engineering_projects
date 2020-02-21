@@ -48,8 +48,9 @@
 5. [Data Warehouse(Redshift or Snowflake)](https://github.com/bclipp/data_engineering_projects/tree/master/project05)   
 6. [Spark DataLake](https://github.com/bclipp/data_engineering_projects/tree/master/project06)
 7. [Automate DataPipeline (airflow or Jenkins)](https://github.com/bclipp/data_engineering_projects/tree/master/project07)
-8. REST API crud app
-9. Grps crud  app
+8. REST API crud app (restaurant)
+9. Grps crud  app (Library)
+10. AWS Lambda microservices (blockbuster)
 10. Kafka Project (Spark Streaming and * language)
 11. Data Modeling in MongoDB
 12. Data Modeling in Elasticsearch
