@@ -31,7 +31,7 @@ blockID or block fips id, state_fips, state code and block population.
 
 2. A report is generated that lists the number of customer's per store blockID in a csv file.
 the columns shoul be:
-StoreName, BlockID, customerCount
+StoreID,StoreName, BlockID, customerCount
 
 3. The report should be uploaded to a s3 location specified by the person running the app at run time. Take care to
 avoid leaking aws credentials.
