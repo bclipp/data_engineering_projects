@@ -38,3 +38,16 @@ avoid leaking aws credentials.
 
 4. The user will need to provide AWS credentials in a secure manner. 
 
+## Docker Setup
+
+1. Install docker and is needed docker-compose
+
+2. run docker-compose up
+
+## Connecting to Database UI
+
+URL: http://localhost:8080/
+SYSTEM: PostgreSQL
+USER: project01
+PASSWORD: project01
+DB: project01
