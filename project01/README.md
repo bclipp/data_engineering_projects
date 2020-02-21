@@ -46,8 +46,8 @@ avoid leaking aws credentials.
 
 ## Connecting to Database UI
 
-URL: http://localhost:8080/
-SYSTEM: PostgreSQL
-USER: project01
-PASSWORD: project01
-DB: project01
+URL: http://localhost:8080/  
+SYSTEM: PostgreSQL  
+USER: project01  
+PASSWORD: project01  
+DB: project01  
