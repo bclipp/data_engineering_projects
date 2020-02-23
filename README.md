@@ -41,9 +41,9 @@
   
 ## Projects     
  
-**Core** :  
- [Merge pipeline DB and API](https://github.com/bclipp/data_engineering_projects/tree/master/project01)
- [Streaming PostGresql CDC to S3](https://github.com/bclipp/data_engineering_projects/tree/master/project02)   
+**Core** :    
+ [Merge pipeline DB and API](https://github.com/bclipp/data_engineering_projects/tree/master/project01)  
+ [Streaming PostGresql CDC to S3](https://github.com/bclipp/data_engineering_projects/tree/master/project02)     
 
 **Data modeling and Datawarehouse**         
  [Data Modeling in PostgreSQL](https://github.com/bclipp/data_engineering_projects/tree/master/project03)  
