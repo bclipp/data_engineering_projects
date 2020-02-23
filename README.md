@@ -52,12 +52,12 @@
 **Automating Data Pipeline **
  [Automate DataPipeline (airflow or Jenkins)](https://github.com/bclipp/data_engineering_projects/tree/master/project07)
 
- **Moving Data** :
- REST API crud app (restaurant)
- Grps crud  app (Library)
-AWS Lambda microservices (blockbuster)
+ **Moving Data** :  
+ REST API crud app (restaurant)  
+ Grps crud  app (Library)  
+AWS Lambda microservices (blockbuster)  
 
-**Streaming** : 
+**Streaming** :   
  Kafka Project (Spark Streaming and * language)  
 ...
 
