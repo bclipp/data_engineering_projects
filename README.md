@@ -40,19 +40,41 @@
   
   
 ## Projects     
-  
-1. [Merge pipeline DB and API](https://github.com/bclipp/data_engineering_projects/tree/master/project01)
-2. [Streaming PostGresql CDC to S3](https://github.com/bclipp/data_engineering_projects/tree/master/project02)   
-3. [Data Modeling in PostgreSQL](https://github.com/bclipp/data_engineering_projects/tree/master/project03)  
-4. [Data Modeling in Cassandra](https://github.com/bclipp/data_engineering_projects/tree/master/project04)  
-5. [Data Warehouse(Redshift or Snowflake)](https://github.com/bclipp/data_engineering_projects/tree/master/project05)   
-6. [Spark DataLake](https://github.com/bclipp/data_engineering_projects/tree/master/project06)
-7. [Automate DataPipeline (airflow or Jenkins)](https://github.com/bclipp/data_engineering_projects/tree/master/project07)
-8. Kafka Project (Spark Streaming and * language)
-9. Data Modeling in MongoDB
-10. REST API crud app (restaurant)
-11. Grps crud  app (Library)
-12. AWS Lambda microservices (blockbuster)
-13. Data Modeling in Elasticsearch
-14. Redis
-15. In Memory DB
+ 
+**Core** :
+ [Merge pipeline DB and API](https://github.com/bclipp/data_engineering_projects/tree/master/project01)
+ [Streaming PostGresql CDC to S3](https://github.com/bclipp/data_engineering_projects/tree/master/project02)   
+
+**Data modeling and Datawarehouse** 
+ [Data Modeling in PostgreSQL](https://github.com/bclipp/data_engineering_projects/tree/master/project03)  
+ [Data Warehouse(Redshift or Snowflake)](https://github.com/bclipp/data_engineering_projects/tree/master/project05)  
+
+**Automating Data Pipeline **
+ [Automate DataPipeline (airflow or Jenkins)](https://github.com/bclipp/data_engineering_projects/tree/master/project07)
+
+ **Moving Data** :
+ REST API crud app (restaurant)
+ Grps crud  app (Library)
+AWS Lambda microservices (blockbuster)
+
+**Streaming** :
+ Kafka Project (Spark Streaming and * language)
+...
+
+
+**Big Data** :
+1. [Spark DataLake](https://github.com/bclipp/data_engineering_projects/tree/master/project06)
+...
+
+**Other DB's** :
+ [Data Modeling in Cassandra](https://github.com/bclipp/data_engineering_projects/tree/master/project04)  
+ Data Modeling in MongoDB
+  Data Modeling in Elasticsearch
+ Redis
+In Memory DB
+Globally distributed Database
+ 
+
+
+
+
