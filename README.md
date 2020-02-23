@@ -71,7 +71,7 @@ AWS Lambda microservices (blockbuster)
  Data Modeling in MongoDB  
   Data Modeling in Elasticsearch  
  Redis 
-In Memory DB 
+In Memory DB   
 Globally distributed Database  
  
 
