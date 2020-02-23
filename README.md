@@ -63,16 +63,16 @@ AWS Lambda microservices (blockbuster)
 
 
 **Big Data** :  
-1. [Spark DataLake](https://github.com/bclipp/data_engineering_projects/tree/master/project06)
+[Spark DataLake](https://github.com/bclipp/data_engineering_projects/tree/master/project06)  
 ...
 
-**Other DB's** :  
- [Data Modeling in Cassandra](https://github.com/bclipp/data_engineering_projects/tree/master/project04)  
- Data Modeling in MongoDB
-  Data Modeling in Elasticsearch
- Redis
-In Memory DB
-Globally distributed Database
+**DBs**:  
+ [Data Modeling in Cassandra](https://github.com/bclipp/data_engineering_projects/tree/master/project04)    
+ Data Modeling in MongoDB  
+  Data Modeling in Elasticsearch  
+ Redis 
+In Memory DB 
+Globally distributed Database  
  
 
 
