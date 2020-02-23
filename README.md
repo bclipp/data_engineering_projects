@@ -41,11 +41,11 @@
   
 ## Projects     
  
-**Core** :
+**Core** :  
  [Merge pipeline DB and API](https://github.com/bclipp/data_engineering_projects/tree/master/project01)
  [Streaming PostGresql CDC to S3](https://github.com/bclipp/data_engineering_projects/tree/master/project02)   
 
-**Data modeling and Datawarehouse** 
+**Data modeling and Datawarehouse**   
  [Data Modeling in PostgreSQL](https://github.com/bclipp/data_engineering_projects/tree/master/project03)  
  [Data Warehouse(Redshift or Snowflake)](https://github.com/bclipp/data_engineering_projects/tree/master/project05)  
 
@@ -57,16 +57,16 @@
  Grps crud  app (Library)
 AWS Lambda microservices (blockbuster)
 
-**Streaming** :
- Kafka Project (Spark Streaming and * language)
+**Streaming** : 
+ Kafka Project (Spark Streaming and * language)  
 ...
 
 
-**Big Data** :
+**Big Data** :  
 1. [Spark DataLake](https://github.com/bclipp/data_engineering_projects/tree/master/project06)
 ...
 
-**Other DB's** :
+**Other DB's** :  
  [Data Modeling in Cassandra](https://github.com/bclipp/data_engineering_projects/tree/master/project04)  
  Data Modeling in MongoDB
   Data Modeling in Elasticsearch
