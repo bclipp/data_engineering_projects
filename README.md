@@ -28,7 +28,7 @@
 
 * project uses infrastructure as code (terraform or Cloudwatch)  
 
-* project uses Docker for local development 
+* project uses Docker
 
 * code uses fakes (mocks and stubs)
 
