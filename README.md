@@ -64,6 +64,7 @@ Spark Streaming
 
 **Big Data** :  
 [Spark DataLake](https://github.com/bclipp/data_engineering_projects/tree/master/project06)  
+Spark Delta lake
 ...
 
 **DBs**:  
