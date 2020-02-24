@@ -1,8 +1,10 @@
-CREATE TABLE my_test (
-    client_id character varying(36) NOT NULL,
-    value character varying(255),
-    last_changed  character varying(255)
+CREATE TABLE customers (
+    id integer PRIMARY KEY,
+    first_name character varying(255),
+    last_name  character varying(255),
+    cc  character varying(255),
 );
 
-INSERT INTO my_test (client_id, value, last_changed)
-VALUES ('1234','2000','1985');
+COPY customers(id,first_name,last_name,cc) 
+FROM 'customers.csv' DELIMITER ',' CSV HEADER;
+
