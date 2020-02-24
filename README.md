@@ -10,7 +10,6 @@
 
 * Project is organized into modules logically  
 
-* project is a pypi project  
 
 **Purple**:  
 
@@ -23,6 +22,7 @@
 
 * project uses has tests for all the infrastructure  
 
+* project is a package   
  
 **Brown** :
 
