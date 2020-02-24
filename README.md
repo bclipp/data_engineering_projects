@@ -32,8 +32,6 @@
 
 * code uses fakes (mocks and stubs)
 
-* code relies on abstraction's (interfaces).
-
 * project uses a CI/CD process using something like Jenkins  
 
 * project uses concurrency when appropriate  
