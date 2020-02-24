@@ -31,10 +31,23 @@ blockID or block fips id, state_fips, state code and block population.
 
 2. A report is generated that lists the number of customer's per store blockID in a csv file.
 the columns shoul be:
-StoreName, BlockID, customerCount
+StoreID,StoreName, BlockID, customerCount
 
 3. The report should be uploaded to a s3 location specified by the person running the app at run time. Take care to
 avoid leaking aws credentials.
 
 4. The user will need to provide AWS credentials in a secure manner. 
 
+## Docker Setup
+
+1. Install docker and is needed docker-compose
+
+2. run docker-compose up
+
+## Connecting to Database UI
+
+*URL*: http://localhost:8080/  
+*SYSTEM*: PostgreSQL  
+*USER*: project01  
+*PASSWORD*: project01  
+*DB*: project01  

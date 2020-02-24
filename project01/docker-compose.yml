@@ -4,9 +4,9 @@ services:
   postgres:
     image: postgres
     environment:
-      - POSTGRES_PASSWORD=postgres_test
-      - POSTGRES_USER=postgres_test
-      - POSTGRES_DB=postgres_test
+      - POSTGRES_PASSWORD=project01
+      - POSTGRES_USER=project01
+      - POSTGRES_DB=project01
     ports:
       - 5432:5432
     volumes:
