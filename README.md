@@ -56,7 +56,7 @@
 AWS Lambda microservices (blockbuster)  
 
 **Streaming** :   
- Kafka Project
+ Kafka Project   
 Spark Streaming
 
 ...
