@@ -45,7 +45,7 @@
 
 **Data modeling and Datawarehouse**         
  [Data Modeling in PostgreSQL](https://github.com/bclipp/data_engineering_projects/tree/master/project03)  
- [Data Warehouse(Redshift or Snowflake)](https://github.com/bclipp/data_engineering_projects/tree/master/project05)   
+ [Data Warehouse(Redshift , Snowflake or postgresql)](https://github.com/bclipp/data_engineering_projects/tree/master/project05)   
 
 **Automating Data Pipeline**  
  [Automate DataPipeline (airflow or Jenkins)](https://github.com/bclipp/data_engineering_projects/tree/master/project07)  
